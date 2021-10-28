@@ -1,7 +1,7 @@
 // This changes the text color in the Buck Mulligan text chunk.
 
 function changeColor() {
-        // buckMulliganText = document.getElementById("firstTextBlock");
+        //const buckMulliganText = document.getElementById("firstTextBlock");
         const buckMulliganText = document.querySelector(".textChunkOne");
         buckMulliganText.style.color = "red";
 }
